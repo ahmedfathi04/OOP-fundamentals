@@ -3,9 +3,7 @@
 public class Ahmed {
     
     public void overloading(String x , int y) {
-        x = "F-";
-        y = 16 ;
-        System.out.println("x" + y);
+        System.out.println(x + y);
     }
 
     public void overriding() {  
